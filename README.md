@@ -2,7 +2,7 @@
 =========
 
 ** 软件渲染器 **
-![demo](https://github.com/NoahXXX/noah_render/blob/master/ilidan_light.gif)
+![demo](https://github.com/noahwork/render/blob/master/gif/ilidan_light.gif)
 
 功能
 --------
@@ -12,4 +12,4 @@
 
 反馈
 -------------
- - 现在就在[issue](https://github.com/NoahXXX/noah_render/issues)中提问。
+ - 现在就在[issue](https://github.com/noahwork/render/issues)中提问。
