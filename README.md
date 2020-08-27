@@ -2,7 +2,7 @@
 =========
 
 ** 软件渲染器 **
-![demo](https://github.com/noahwork/render/blob/master/gif/ilidan_light.gif)
+![demo](https://s1.ax1x.com/2020/08/28/d5rtmQ.md.gif)
 
 功能
 --------
